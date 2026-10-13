@@ -5,6 +5,9 @@
 **Tools:** Python (Pandas, VADER), Google Colab, Excel, Power BI  
 **Scope:** 6 competitors | 1,199 Google Play reviews  
 **Project Type:** Self-initiated, client-style business analytics project
+## Dashboard Preview
+
+![Meal Planning App Competitive Analysis Dashboard](dashboard/meal_planning_dashboard.jpeg)
 
 ---
 
