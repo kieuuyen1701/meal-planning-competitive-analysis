@@ -113,12 +113,13 @@ Consider opportunities arising from Mealime's announced market exit, subject to 
 
 ## 6. Deliverables
 
-The repository contains:
-
-- **Python Notebook:** Review collection, cleaning, sentiment classification and theme analysis.
-- **Processed Datasets:** Competitor-level and theme-level review summaries.
-- **Excel Research Workbook:** Competitor research, feature comparison, pricing, market gaps and recommendations.
-- **Power BI Dashboard:** Visual summary of the competitive landscape and customer feedback.
+| Deliverable | Description |
+|---|---|
+| [Python Analysis Notebook](notebooks/meal_planning_competitor_review_analysis.ipynb) | Review collection, data cleaning, sentiment classification and theme analysis |
+| [Competitor Review Summary](data/competitor_review_summary.csv) | Competitor-level sentiment results across six apps |
+| [Competitor Theme Summary](data/competitor_theme_summary.csv) | Customer feedback themes and sentiment breakdowns |
+| [Excel Research Workbook](research/meal_planning_competitor_analysis.xlsx) | Feature benchmarking, pricing, positioning, market gaps and recommendations |
+| [Power BI Dashboard](dashboard/meal_planning_dashboard.jpeg) | Dashboard visualising sentiment, pain points and market opportunities |
 
 ## 7. Limitations
 
